@@ -253,6 +253,9 @@
         <mxCell id="eFFJoNVPwAbwZ5HDOG99-18" value="决策" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1001" y="671" width="60" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-19" value="决策" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1012" y="682" width="60" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
