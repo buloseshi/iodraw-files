@@ -66,6 +66,12 @@
             <mxPoint x="746" y="532" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_4oqI6ZQnD_Q_dqSxT7-19" target="eFFJoNVPwAbwZ5HDOG99-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_4oqI6ZQnD_Q_dqSxT7-19" target="eFFJoNVPwAbwZ5HDOG99-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n_4oqI6ZQnD_Q_dqSxT7-19" value="是否升级&amp;amp;上报集团" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="671" y="452" width="160" height="50" as="geometry" />
         </mxCell>
@@ -216,7 +222,7 @@
           <mxGeometry x="1045" y="424.5" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eFFJoNVPwAbwZ5HDOG99-4" value="控股全风" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1045" y="502" width="66" height="33" as="geometry" />
+          <mxGeometry x="1034" y="363" width="66" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
