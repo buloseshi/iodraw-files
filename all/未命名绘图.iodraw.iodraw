@@ -151,7 +151,7 @@
           <mxGeometry x="886" y="632" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="n_4oqI6ZQnD_Q_dqSxT7-85" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;PM" style="shape=actor;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="756.5" y="717" width="30" height="45" as="geometry" />
+          <mxGeometry x="756.5" y="682" width="167.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="n_4oqI6ZQnD_Q_dqSxT7-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_4oqI6ZQnD_Q_dqSxT7-86">
           <mxGeometry relative="1" as="geometry">
@@ -222,7 +222,7 @@
           <mxGeometry x="1034" y="502" width="66" height="33" as="geometry" />
         </mxCell>
         <mxCell id="eFFJoNVPwAbwZ5HDOG99-4" value="控股全风" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1034" y="363" width="66" height="33" as="geometry" />
+          <mxGeometry x="1034" y="432" width="66" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
