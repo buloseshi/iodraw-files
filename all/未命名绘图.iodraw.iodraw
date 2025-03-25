@@ -165,8 +165,11 @@
             <mxPoint x="771" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eFFJoNVPwAbwZ5HDOG99-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_4oqI6ZQnD_Q_dqSxT7-86" target="eFFJoNVPwAbwZ5HDOG99-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="916" y="682.002727272727" as="sourcePoint" />
+            <mxPoint x="1066.9999999999995" y="543.73" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="n_4oqI6ZQnD_Q_dqSxT7-86" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="626" y="664.5" width="290" height="17.5" as="geometry" />
@@ -233,6 +236,9 @@
         </mxCell>
         <mxCell id="eFFJoNVPwAbwZ5HDOG99-4" value="控股全风" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1034" y="432" width="66" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-13" value="发酵/对抗" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;opacity=0;strokeColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="697" y="946" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
