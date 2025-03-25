@@ -204,7 +204,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n_4oqI6ZQnD_Q_dqSxT7-117" value="事件记录" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="581" y="1089" width="77" height="27" as="geometry" />
+          <mxGeometry x="477.5" y="1078" width="77" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="eFFJoNVPwAbwZ5HDOG99-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n_4oqI6ZQnD_Q_dqSxT7-111" target="n_4oqI6ZQnD_Q_dqSxT7-117">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
